@@ -1862,6 +1862,8 @@ MEASUREMENT_DICT = {
     'K6 Sensor Beacon'        : [["temperature", "humidity", "acceleration", "voltage", "battery", "rssi"], [], []],
     'DSL-C08'                 : [["battery", "rssi", "voltage"], [], ["lock", "childlock"]],
     'SmartDry cloth dryer'    : [["temperature", "humidity", "voltage", "battery", "shake", "rssi"], [], ["switch"]],
+    'EClerk Eco'              : [["temperature", "humidity", "co2", "battery", "rssi"], [], []],
+
 }
 
 # Sensor manufacturer dictionary
